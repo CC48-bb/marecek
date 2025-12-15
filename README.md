@@ -39,7 +39,7 @@ Funkce `najdi_studenta_podle_rc(rc)` využívá slovník `_mapa_podle_rc`. Vyhle
 
 * Příklad `najdi_studenty_se_stejnym_jmenem`:
 
-![obrázek] (ht)
+![příklad] (https://i1.sndcdn.com/avatars-000615217122-vydwfr-t1080x1080.jpg)
 
  Zde je vidět, jak slovník slouží k agregaci dat. Projdeme seznam jednou a vkládáme studenty do slovníku, kde klíčem je normalizované jméno.
 
